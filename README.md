@@ -144,7 +144,7 @@ This tutorial outlines the post-install configuration of the open-source help de
     <ul>
       <li><img src="https://i.imgur.com/6X7Yfd7.png" height="80%" width="80%" alt="13"/></li>
     </ul>
-    <li>For this tutorial, we will be creating two new Users <b>Ken</b> and <b>Karen</b> and setting up usernames, emails, and passwords similar to our Agents.</li>
+    <li>For this step, we will be creating two new Users <b>Ken Ken</b> and <b>Karen Karen</b> and setting up usernames, emails, and passwords similar to our Agents.</li>
     <ul>
       <li><img src="https://i.imgur.com/PLh3V7g.png" height="80%" width="80%" alt="14"/></li>
     </ul>
